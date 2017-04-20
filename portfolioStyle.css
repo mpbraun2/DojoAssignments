@@ -1,0 +1,104 @@
+#container{
+    background-color: #4b3840;
+    background: radial-gradient(#1a0a0e, #6f5964);
+    width:970px;
+    display: inline-block;
+} 
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f2f2f2;
+}
+h2{
+    text-align: right;
+    float: right;
+}
+h1{
+    text-align: left;
+    display:inline-block;
+}
+.picture-text{
+    width: 420px;
+    padding:8px;
+    background-color: #c0c0c0;
+    margin: 10px;
+    display: inline-block;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-block;
+}
+.aboutme{
+    background-color: #f2ecf2;
+    display:inline-block;
+    width:490px;
+    height: 297px;
+    vertical-align: top;
+    margin: 10px;
+}
+.lamode{
+    background-color: #e5dae4;
+    display: inline-block;
+    vertical-align: top;
+    width: 307px;
+    margin: 10px 10px 10px 0px;
+}
+.family{
+    background-color: #e5dae4;
+    display: inline-block;
+    vertical-align: top;
+    width: 307px;
+    margin: 10px;
+}
+.five{
+    background-color: #e5dae4;
+    display: inline-block;
+    vertical-align: top;
+    width: 307px;
+    margin: 10px;
+}
+.footer{
+    background-color: #f8f8f8;
+    font-size: 12px;
+    text-align: center;
+}
+.technologies{
+    height: 30px;
+    display: inline-block;
+}
+#clickme{
+    text-decoration: underline;
+    font-weight: bold;
+}
+h4{
+    background: radial-gradient(#92919c, #b4b4b8);
+    color: white;
+
+}
+#falsefoot{
+    background-color: #407d61;
+    color: white;
+    border-color: black;
+    border-radius: 10px;
+    padding:5px;
+    border:1px solid black;
+    margin: 0px 0px 0px 110px;
+
+}
+h3{
+    color: white;
+    background: radial-gradient(#92919c, #b4b4b8);
+    padding: 15px;
+}
+.link{
+    height: 20px;
+    vertical-align: top;
+    display: inline-block;
+}
+.icon{
+    max-height: 15px;
+    max-width: 15px;
+}
+.descriptions{
+    height: 155px;
+}
